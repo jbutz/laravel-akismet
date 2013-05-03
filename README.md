@@ -4,7 +4,7 @@ This is a bundle of the Akismet PHP library found [here](https://github.com/achi
 
 ## Installation
 
-Install reCAPTCHA via Artisan:
+Install akismet via Artisan:
 
 ```
 php artisan bundle:install akismet
